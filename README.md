@@ -35,7 +35,7 @@ git clone https://github.com/AmarCodeCraft/Login-ui.git
 ### 2️⃣ Go to project folder
 
 ```
-cd your-repository-name
+cd Login-ui
 ```
 
 ### 3️⃣ Install dependencies
